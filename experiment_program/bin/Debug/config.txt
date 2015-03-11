@@ -1,0 +1,5 @@
+# dir configs
+
+stimuli dir="stimuli"
+matlab script dir="matlab_scripts"
+output dir="tracked_data"
